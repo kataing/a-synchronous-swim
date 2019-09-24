@@ -1,2 +1,2 @@
 # a-synchronous-swim
-This is a project I completed as a student at [hackreactor](http://hackreactor.com). This project was worked on with a pair.
+This is an async app I worked on with a pair as a student at [HackReactor](http://hackreactor.com).
